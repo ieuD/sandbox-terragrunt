@@ -6,7 +6,7 @@ inputs = {
   org_name = "non-prod"
   org-account-name = "sre-sandbox"
   environment = "non-prod"
-  sre-aws-email = "ierencankurtaran@hotmail.com"
+  sre-aws-email = "dummy@hotmail.com"
 }
 
 include {
